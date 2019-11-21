@@ -1,0 +1,8 @@
+(88, 51) PICTURE white hoofd.jpg
+(63.327, 81.8162) BALL blue 10
+(562.383, 350.559) BALL blue 20
+(210, 163) RECTANGLE red (30, 40)
+(0, 0) RECTANGLE black (640, 40)
+(600, 0) RECTANGLE black (40, 480)
+(0, 440) RECTANGLE black (640, 40)
+(0, 0) RECTANGLE black (40, 480)
